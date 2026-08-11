@@ -1,0 +1,19 @@
+apps/web/components/EmailMessageCellLabels.ts
+  s_9853ee663d7730::t_f4bf99c054a855 55-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "6196d61515cfc80263d45817fc2c8d19606611e1",
+  "prompts": {},
+  "sessions": {
+    "s_9853ee663d7730": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3c0ed28a-4e0f-45e0-88a4-380ff1494f69",
+        "model": "claude-opus-5"
+      },
+      "human_author": "clintoncodewell <clinton@advisewell.co>"
+    }
+  }
+}
